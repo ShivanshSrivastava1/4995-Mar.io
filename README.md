@@ -3,5 +3,7 @@ Updated version of the Mar.io Discord bot for COMS W4995: Open Source Developmen
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
+![](https://img.shields.io/github/issues/ShivanshSrivastava1/4995-Mar.io)
+
 ## Overview
 Mar.io is a Discord bot written in Python that aims to enhance a server's social experience in text and voice channels. The bot's features include streamlined server moderation, music playback, and simple Wikipedia searches. Future updates are planned to include improved search functionality via Google, the ability to maintain a shared queue for music playback, and chat leaderboards.
