@@ -1,4 +1,8 @@
-# 4995-Mar.io
+# 4995-Mar.io (OUTDATED FOR COMS 4995)
+# NOTE
+I've since changed my individual project for COMS 4995. If you are looking to grade HW4 and beyond, please refer to the [new project's repo](https://github.com/ShivanshSrivastava1/Resume-Parser). This change has also been reflected in the course repo (please refer to [PR #409](https://github.com/ColumbiaOSS/project-proposals-s2023/pull/409)).
+
+## Description (OLD)
 Updated version of the Mar.io Discord bot for COMS W4995: Open Source Development with Prof. Tim Paine during the Spring 2023 semester at Columbia University.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
